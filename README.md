@@ -34,5 +34,5 @@ This graph indicates that when Item Visibility and for a item category is direct
 Our observations in the previous do not hold when we see at the sales of Items in different outlets. Here the grocery store does have a uniform distribution even for items which have higher visibility. Even for Supermarket Type 3 some of Items with high sales have lower visibility compared to other items.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10596504/37639389-9cd9fa78-2be7-11e8-93b5-9e05faa35518.png" width="700"/>
+  <img src="https://user-images.githubusercontent.com/10596504/37639503-06464dd6-2be8-11e8-98f6-b4d74f4f2297.png" width="700"/>
 </p>
