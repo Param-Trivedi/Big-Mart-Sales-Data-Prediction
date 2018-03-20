@@ -46,7 +46,4 @@ Moreover, the Machine Learning algorithm that were implemented were **"Random Fo
 
 # Results
 
-To finally summarize the results of the three algorithms we can that the optimal RMSE score for Model 1 and Model 2 obtained using the Decision Trees, Random Forest and Multivariate Regression are 1096.45 and 782.45, 1099.288 and 1142.778, 1136.41 and 1094.424 respectively. We can say that for Model 1 Decision Tree performs better than other algorithms and for Model 2 Multivariate Regression
-performance is better compared to other algorithms. 
-
-After implementing the algorithm’s, we submitted the solution for the Test data set that was provided by Analytics Vidya Big Mart Sales Competition. Random Forest performed better for Model 1 and Model 2 with RMSE score of 1152.916 and 1145.759
+After implementing the algorithm’s, I submitted the solution for the Test data set that was provided by Analytics Vidya Big Mart Sales Competition. Random Forest performed better with the with RMSE score of 1145.759
