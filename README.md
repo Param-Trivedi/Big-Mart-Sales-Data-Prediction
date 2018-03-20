@@ -39,11 +39,7 @@ Our observations in the previous do not hold when we see at the sales of Items i
 
 # Model Description
 
-During this project there were two models that were implemented <br/>
-
-1. Predicts the Sales of Item for that store <br/>
-
-2. Predicts the quantity of Item sold instead of Item Sales. The idea behind this implantation is that quantities sold  might make more    sense than the sale of item. In the final step while checking the accuracy Item Sold is multiplied with Item MRP. <br/>
+The end goal of this Model is to predict the price of the Item. <br/>
 
 Moreover, the Machine Learning algorithm that were implemented were **"Random Forest"**, **"Logisti Regression"**, **"Decision Trees"**
 
