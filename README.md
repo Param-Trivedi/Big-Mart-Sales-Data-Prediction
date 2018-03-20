@@ -36,3 +36,21 @@ Our observations in the previous do not hold when we see at the sales of Items i
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10596504/37639503-06464dd6-2be8-11e8-98f6-b4d74f4f2297.png" width="700"/>
 </p>
+
+# Model Description
+
+During this project there were two models that were implemented <br/>
+
+1. Predicts the Sales of Item for that store <br/>
+
+2. Predicts the quantity of Item sold instead of Item Sales. The idea behind this implantation is that quantities sold  might make more    sense than the sale of item. In the final step while checking the accuracy Item Sold is multiplied with Item MRP. <br/>
+
+Moreover, the Machine Learning algorithm that were implemented were **"Random Forest"**, **"Logisti Regression"**, **"Decision Trees"**
+
+
+# Results
+
+To finally summarize the results of the three algorithms we can that the optimal RMSE score for Model 1 and Model 2 obtained using the Decision Trees, Random Forest and Multivariate Regression are 1096.45 and 782.45, 1099.288 and 1142.778, 1136.41 and 1094.424 respectively. We can say that for Model 1 Decision Tree performs better than other algorithms and for Model 2 Multivariate Regression
+performance is better compared to other algorithms. 
+
+After implementing the algorithm’s, we submitted the solution for the Test data set that was provided by Analytics Vidya Big Mart Sales Competition. Random Forest performed better for Model 1 and Model 2 with RMSE score of 1152.916 and 1145.759
