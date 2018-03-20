@@ -18,8 +18,7 @@ This sections I am giving the Insights that I think could help understand the da
 It can be seen in graph we can see that in sales Supermarket Type 1 dominates compared to other type of outlets. However, it is interesting to see the gaps in the prices around 60,130 and 200. There could be many reason for why there are gaps in the prices, it could be because prices for different categories differ and which led to the gaps.
 
 <p align="center">
-  <img src="C://Users/param/Desktop/NJIT/Sem 2/CS634 - DM/Project/Graph/Item_Outlet_Sales vs Item MRP.png" width="350"/>
-  <img src="C:/Users/param/Desktop/Graph/1.png" width="350"/>
+  <img src="https://user-images.githubusercontent.com/10596504/37639310-375edae2-2be7-11e8-95d6-ae4deaabf9e6.png" width="700"/>
  </p>
 
 ### Item Visibility and Item Sales vs Item Type:
