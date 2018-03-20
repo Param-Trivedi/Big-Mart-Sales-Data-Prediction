@@ -46,4 +46,4 @@ Moreover, the Machine Learning algorithm that were implemented were **"Random Fo
 
 # Results
 
-After implementing the algorithm’s, I submitted the solution for the Test data set that was provided by Analytics Vidya Big Mart Sales Competition. Random Forest performed better with the with RMSE score of 1145.759
+After implementing the algorithm’s, I submitted the solution for the Test data set that was provided by Analytics Vidya Big Mart Sales Competition. Random Forest performed better with the with RMSE score of **1145.759**
